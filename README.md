@@ -1,6 +1,6 @@
 # udacity-my-reads
 
-This project helps you to manage your book habits.
+This project helps you to sort-out your books!
 
 Main features:
 
